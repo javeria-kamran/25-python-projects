@@ -1,0 +1,8 @@
+2025-03-26 17:30:38,314 - INFO - Starting scrape of https://portal.governorsindh.com/sign-in with depth 1
+2025-03-26 17:30:39,318 - INFO - Fetching: https://portal.governorsindh.com/sign-in
+2025-03-26 17:30:39,863 - ERROR - Error saving results: dict contains fields not in fieldnames: 'alt', 'src', 'title'
+2025-03-26 17:30:39,863 - INFO - Scraping completed. Visited 1 pages.
+2025-03-26 17:31:44,738 - INFO - Starting scrape of https://portal.governorsindh.com/sign-in with depth 1
+2025-03-26 17:31:45,743 - INFO - Fetching: https://portal.governorsindh.com/sign-in
+2025-03-26 17:31:46,192 - ERROR - Error saving results: dict contains fields not in fieldnames: 'title', 'src', 'alt'
+2025-03-26 17:31:46,192 - INFO - Scraping completed. Visited 1 pages.
